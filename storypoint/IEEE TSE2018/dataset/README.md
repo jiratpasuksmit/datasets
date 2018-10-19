@@ -4,9 +4,9 @@ It consists of 16 csv files from 16 projects collected from 9 open source reposi
 
 Project list
 
-| Repository   | Project             | File                   |
-|--------------|---------------------|------------------------|
-| Apache       | mesos               | mesos.csv              |
+| Repository   | Project             | File                   | Condition              | Link                            |
+|--------------|---------------------|------------------------|------------------------|---------------------------------|
+| Apache       | mesos               | mesos.csv              |+EstimateSP -ActualSP.  | issues.apache.org/jira/browse   |
 |              | Usergrid            | usergrid.csv           |
 | Appcelerator | Appcelerator studio | appceleratorstudio.csv |
 |              | Aptana studio       | aptanastudio.csv       |
